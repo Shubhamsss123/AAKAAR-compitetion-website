@@ -1,0 +1,9 @@
+git init 
+git config --global user.name
+git config --user.email 
+git add .
+git commit -m "message'
+git remote add origin ssh 
+git push origin maser 
+[D[A[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[Csh[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[add[B[B
+this is added line
